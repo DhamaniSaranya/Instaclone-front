@@ -10,7 +10,7 @@ export default function LandingPage() {
       </div>
       <div className='title'>
         <div className='txtLand'>
-          <p>10x Team 04</p>
+          <p>Instaclone</p>
         </div>
         <div className='btnWrapper'>
           <Link id='landBtn' className='lBtn' to='/postview'>
