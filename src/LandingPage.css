@@ -4,6 +4,7 @@
 }
 
 .land-container {
+  background-color: lightyellow;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -11,9 +12,9 @@
 }
 
 .land-image {
-  width: 40%;
+  width: 30%;
   height: 50%;
-  border: 2px solid blue;
+  border: 2px solid wheat;
 }
 
 .land-image > img {
@@ -24,9 +25,9 @@
 #landBtn {
   padding: 3px 12px;
   font-size: 28px;
-  background-color: #fff;
-  border: 2px solid green;
-  color: green;
+  background-color: blueviolet;
+  border: 2px solid blueviolet;
+  color: white;
   border-radius: 10px;
 }
 
@@ -38,7 +39,7 @@
 
 .txtLand {
   height: 100%;
-  margin-left: 80px;
+  margin-left: 100px;
   margin-bottom: 100px;
   margin-top: 50px;
 }
