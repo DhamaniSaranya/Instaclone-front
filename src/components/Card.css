@@ -38,7 +38,7 @@
 .dots {
   float: right;
   margin-right: 30px;
-  margin-top: 30px;
+  margin-top: 0px;
 }
 
 .dots > img {
@@ -49,9 +49,14 @@
 .name {
   margin-top: 2px;
   margin-left: 20px;
+  font-size: 16px;
+  font-weight: 600;
+}
+.location{
+  margin-left: 20px;
   margin-bottom: 20px;
   font-size: 16px;
-  font-weight: bolder;
+  font-weight: 300;
 }
 
 .image {
