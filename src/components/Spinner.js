@@ -4,7 +4,7 @@ import './Spinner.css';
 export default function Spinner() {
   return (
     <div className="container">
-      <img src="/images/spinner.gif" alt="Loading" />
+      <h3>Loading....</h3>
     </div>
   );
 }
