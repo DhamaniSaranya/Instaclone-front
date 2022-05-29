@@ -9,8 +9,10 @@ export default function Card({ people }) {
       <div className='card' key={index}>
         <div className='info'>
           <div className='name'>
-            {person.name}
-            <br />
+            {person.author}
+          </div>
+          <br />
+          <div className='location'>
             {person.location}
           </div>
           <div className='dots'>
